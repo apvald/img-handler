@@ -1,0 +1,37 @@
+{
+  "name": "img-handler",
+  "description": "Node.js Express url image handler using sharp module to resize JPEG, PNG, WebP, AVIF and TIFF images",
+  "version": "0.0.1",
+  "author": "Alan Vald",
+  "homepage": "https://github.com/apvald/img-handler",
+  "main": "index.js",
+  "repository": {
+    "url": "git://github.com/apvald/img-handler.git"
+  },
+  "keywords": [
+    "image",
+    "handler",
+    "image handler",
+    "image processing",
+    "image manipulation",
+    "image resize",
+    "jpeg",
+    "jpg",
+    "png",
+    "webp",
+    "avif",
+    "tiff",
+    "gif",
+    "svg",
+    "dzi",
+    "resize",
+    "thumbnail",
+    "crop",
+    "embed",
+    "sharp"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "Apache-2.0"
+}
